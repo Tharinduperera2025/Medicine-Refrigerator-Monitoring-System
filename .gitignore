@@ -1,0 +1,44 @@
+# Build and temporary files
+/build/
+/build-*/
+/cmake-build-*/
+*.o
+*.obj
+*.elf
+*.hex
+*.map
+*.tmp
+*.temp
+.pio/
+
+# Python temporary files and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Web dependencies and logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment files, API keys, and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+*service-account*.json
+*service_account*.json
+firebase-adminsdk-*.json
+*.pem
+*.key
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
