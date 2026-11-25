@@ -19,6 +19,6 @@ The project is evaluating an nRF52832 sensor node, an SHT31 temperature and humi
 
 Planned technologies include Firebase, HTML, CSS, and JavaScript.
 
-## Current Status
+##Status
 
 The project is in the planning and hardware evaluation stage. Hardware choices, architecture, and implementation details are still being explored.
