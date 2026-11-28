@@ -22,3 +22,5 @@ Planned technologies include Firebase, HTML, CSS, and JavaScript.
 ##Status
 
 The project is in the planning and hardware evaluation stage. Hardware choices, architecture, and implementation details are still being explored.
+ESP32 C3 SUPERMINI
+NRF MODULE
